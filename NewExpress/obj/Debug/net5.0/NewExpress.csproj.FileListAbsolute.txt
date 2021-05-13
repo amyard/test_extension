@@ -1,0 +1,16 @@
+D:\rider_projects\NewExpress\NewExpress\bin\Debug\net5.0\NewExpress.exe
+D:\rider_projects\NewExpress\NewExpress\bin\Debug\net5.0\NewExpress.deps.json
+D:\rider_projects\NewExpress\NewExpress\bin\Debug\net5.0\NewExpress.runtimeconfig.json
+D:\rider_projects\NewExpress\NewExpress\bin\Debug\net5.0\NewExpress.runtimeconfig.dev.json
+D:\rider_projects\NewExpress\NewExpress\bin\Debug\net5.0\NewExpress.dll
+D:\rider_projects\NewExpress\NewExpress\bin\Debug\net5.0\ref\NewExpress.dll
+D:\rider_projects\NewExpress\NewExpress\bin\Debug\net5.0\NewExpress.pdb
+D:\rider_projects\NewExpress\NewExpress\obj\Debug\net5.0\NewExpress.csprojAssemblyReference.cache
+D:\rider_projects\NewExpress\NewExpress\obj\Debug\net5.0\NewExpress.GeneratedMSBuildEditorConfig.editorconfig
+D:\rider_projects\NewExpress\NewExpress\obj\Debug\net5.0\NewExpress.AssemblyInfoInputs.cache
+D:\rider_projects\NewExpress\NewExpress\obj\Debug\net5.0\NewExpress.AssemblyInfo.cs
+D:\rider_projects\NewExpress\NewExpress\obj\Debug\net5.0\NewExpress.csproj.CoreCompileInputs.cache
+D:\rider_projects\NewExpress\NewExpress\obj\Debug\net5.0\NewExpress.dll
+D:\rider_projects\NewExpress\NewExpress\obj\Debug\net5.0\ref\NewExpress.dll
+D:\rider_projects\NewExpress\NewExpress\obj\Debug\net5.0\NewExpress.pdb
+D:\rider_projects\NewExpress\NewExpress\obj\Debug\net5.0\NewExpress.genruntimeconfig.cache
