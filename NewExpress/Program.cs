@@ -22,7 +22,7 @@ namespace NewExpress
             
             var res = persons.Where(x => x.Name == "max").AsQueryable();
             
-            res = res.WhereLike("SiteID", cnt);
+            res = res.WhereLike("SiteID", null);
             
             foreach (var item in res.ToList())
             {
