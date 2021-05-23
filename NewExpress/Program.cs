@@ -18,17 +18,21 @@ namespace NewExpress
         
         static void Main(string[] args)
         {
-            int cnt = 55;
+            int cnt = 5;
             
             var res = persons.Where(x => x.Name == "max").AsQueryable();
             
-            res = res.WhereLike("SiteID", null);
+            res = res.WhereLike("SiteID", cnt);
             
             foreach (var item in res.ToList())
             {
                 Console.WriteLine($"Name - {item.Name}, siteID - {item.SiteID}");
             }
             Console.WriteLine("Hello World!");
+
+            var re1 = res.SelectIntByColumnName("SiteID");
+
+            Console.WriteLine($"siteId - {re1}");
         }
     }
 }
